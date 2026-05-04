@@ -73,11 +73,23 @@ By the time I've seen what is happening around the world, my mind may feel like 
 
 Hours have passed. I've travelled around the world. But I've stayed still on growth focus areas. And in the age of planned obsolescence, standing still is walking backwards.
 
-## What I should learn
+I then start on one of my areas of growth. Perhaps I spend a few minutes on it. After 5 minutes, it may actually catch and hold my attention and I would have stayed for a couple of hours, if I could.
 
-## What I should do
+However, it is already time for of the things on my non-discretionary list. I have to stop the growth related activity and go do the "gotta do" thing.  And getting back to the growth activity only happens after I've payed another round of donation of my attention to the billion dollar attention seeking industry.
 
-## Parking lot - Specifics for Educosys
+## What I should learn from this
+
+## What I should do (new behaviors)
+
+## Why previous attempts at fixing myself have failed
+
+## How about an accountability group
+
+## An ideal growth focus accountability group
+### Group characteristics
+### Expected actions from each group member
+
+## Parking lot - Educosys
 
 * Have someone edit the class videos to make them shorter. Aim to make them an hour or less.
 
