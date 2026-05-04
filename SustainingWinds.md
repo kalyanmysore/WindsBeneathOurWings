@@ -14,20 +14,20 @@ Sources:
 * Researching the topic online
 * My own experience
 
-## Days in the lives of many among us 
+## Days in the lives of many among us ("I")
 When I say "I" here, I speak for many.
-### A day that lights a fire under our feet
-This is a rare day. I see a new article or press release expresses a vision that I perceive as credible.
+### A day that lights a fire under my feet
+This is a rare day. Something inspires me to start a journey. Perhaps I see a new article or press release that expresses a vision that I perceive as credible.
 
-I believe it is worth investing time and money in. Sometimes, there is a product (along with a discount) that promises to help the buyer position ourselves favorably in the evolution of the stated vision. Sometimes, I have sought out the product on a different website, as step 1 of working on the vision.
+I believe it is worth investing time and money in. Sometimes, there is a product right there in the article (along with a discount) that promises to help me position myself favorably in future. Sometimes, I have sought out the product on a different website, as step 1 of working on the vision.
 
-The acquisition feels like a no-brainer. And I buy/borrow/subscribe without using much of my brain ! Apple pay is so frictionless. All it takes is a jitter in my thumb to press the button twice and a zombie stare at my phone to make faceID work. And the product is sold. (Wait. Was I the product here ?)
+The acquisition feels like a "no-brainer". And I buy/borrow/subscribe without using much of my "brain" ! Apple pay is so frictionless. All it takes is a jitter in my thumb to press the button twice and a zombie stare at my phone to make faceID work. And the product is sold. (Wait. Was I the product here ?)
 
 I may install an app and login as well. I might even do a welcome session and lesson one.
 
-Internally, this feels like I've accomplished something. After all, every 1000 mile journey starts with the first step !
+Internally, this feels like I've accomplished something. After all, every 1000 mile journey starts with the first step, my mind says !
 ### A day of reckoning
-This is also a rare day. Something reminds me that I'm behind on one of the trainings I thought I'd do. 
+This is also a rare day. Something reminds me that I'm behind on one of the growth areas I thought I'd focus on. 
 
 It maybe an email reminding me of a discounted subscription period ending or a reminder email from the library or a reminder that the next class in a series is tomorrow 
 
@@ -41,19 +41,21 @@ I ask for a renewal/grace of expiry period if that's possible. The mind treats t
 
 If no extension is possible, I resolve to just do better next time.  
 
-If there is an actual upcoming event (a class, a presentation, a test, etc) and the deadline is not movable, do the best I can in a short time frame to prepare for the event.
+If there is an actual upcoming event (a class, a presentation, a test, etc) and the deadline is not movable, do the best I can in a short time frame to prepare for the event. I've been able to do well in many activities with just the last minute effort. Usually (not always), only I know that its not my best work, especially if the group doesn't know me well. 
+
+The mind acts quickly during the day of reckoning, to ensure that the actual reckoning never happens ! Emotional expression which is perhaps needed for reckoning, is blocked by action.
 
 ### A usual day
 For every vision, between the rare days that light my spirit on fire and days that splash cold water on my lazy face, there are the usual days.
 
-A day has some time that's not at my discretion. 
+Every day has some time that's not at my discretion. 
 
 * Work that I've commited to at my professional place of work, kids pickup, dog care, cooking if I've committed to cook today, house/yard work or any other work that my spouse (or HOA) has established a deadline on.
 * There is some time that members of a family spend together talking, eating, playing, etc which is theoretically discretionary but for this article, I will consider it not so.
 * If I've developed habits of exercise, meditation, hobbies (in areas unrelated to growth focus areas), these are great, but not considered discretionary time for this article.
 * If I have a daily commute, I might have scammed myself into believing that no growth content is viable during commuting.
 
-And then, there are the few hours that are actually at my discretion. What happens to it ?
+And then, there are the few hours that are actually at my discretion. What happens to this time ?
 
 As part of being human, I have an innate need to connect to the world. 
 - Some of this desire came from school where we were praised for good "general knowledge". 
@@ -75,7 +77,7 @@ Hours have passed. I've travelled around the world. But I've stayed still on gro
 
 I then start on one of my areas of growth. Perhaps I spend a few minutes on it. After 5 minutes, it may actually catch and hold my attention and I would have stayed for a couple of hours, if I could.
 
-However, it is already time for of the things on my non-discretionary list. I have to stop the growth related activity and go do the "gotta do" thing.  And getting back to the growth activity only happens after I've payed another round of donation of my attention to the billion dollar attention seeking industry.
+However, it is already time for one of the things on my non-discretionary list. I have to stop the growth related activity and go do the "gotta do" thing.  And getting back to the growth activity only happens after I've payed another round of donation of my attention to the billion dollar attention seeking industry.
 
 ## What I should learn from this
 
