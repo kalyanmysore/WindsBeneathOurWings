@@ -83,13 +83,17 @@ However, it is already time for one of the things on my non-discretionary list. 
 
 ## What I should do (new behaviors)
 
-## Why previous attempts at fixing myself have failed
+## Previous attempts at fixing myself have failed
+
+## How a counsellor may help
 
 ## How about an accountability group
 
 ## An ideal growth focus accountability group
 ### Group characteristics
 ### Expected actions from each group member
+
+## Simultaneously consulting with a counsellor while participating in an accountability group
 
 ## Parking lot - Educosys
 
