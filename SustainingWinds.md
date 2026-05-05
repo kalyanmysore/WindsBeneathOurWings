@@ -130,7 +130,10 @@ Having an accountability group can help in crucial ways:
 ### Expected actions from each group member
 
 ## Simultaneously consulting with a counselor while participating in an accountability group
-
+... Shwetha to fill in something here.
+The group keeps you accountable to pay attention to the right things.
+The counselor helps you find techniques that work for you and keeps you accountable to use the techniques
+...
 ## Parking lot - Educosys
 
 * Have someone edit the class videos to make them shorter. Aim to make them an hour or less.
