@@ -124,13 +124,18 @@ Having an accountability group can help in crucial ways:
 - Knowing that we'll be held accountable will make us aware in real time, and we'll rarely waste our attention on things that dont matter.
 
 ## How a counselor may help
-... Shwetha to fill in something here, along with contact info.
-- Can provide many tips for starting and staying on useful work.
-- Can debug your specific case.
+- Can analyze your life situation beyond just the growth area.
 - Can determine if you can benefit from techniques that help mild/more ADHD sufferers and if so, can help you with specific techniques.
-- Can periodically meet with you to make you accountable to following techniques and to tune/change techniques 
-- 
-...
+- Can give you ways to appropriately apply time and energy to various areas of your life. Can debug your specific case.
+- Can provide many tips for starting and staying on growth work.
+- Can periodically meet with you to make you accountable to following techniques and to tune/change techniques
+
+Shwetha Therapy.shwetha@gmail.com is a counselor who can help.
+
+## Consulting with a counselor and participating in an accountability group
+Using both a counselor and an accountability group can create synergy.
+- The accountability group keeps you accountable to pay attention to the growth related things during discretionary time.
+- The counselor helps you find focus techniques that work for you and keeps you accountable to use those techniques. The scope may include other areas of your life
 
 ## An ideal growth focus accountability group
 - Provides humans that one is accountable to.
@@ -142,6 +147,7 @@ Having an accountability group can help in crucial ways:
 - Provides frequent reckoning. Perhaps once a day for novice groups, perhaps evolving to once a week for well established groups?
 - A short duration voice call is the default.
     - Can provide text based channels (whatsapp/discord group) if one is occasionally not able to attend. Occasionally only.
+
 ### Expected actions from each accountability group participant
 - Attends every meeting. Atleast 80%.
 - Makes notes atleast 10 min before the meeting time.
@@ -150,26 +156,27 @@ Having an accountability group can help in crucial ways:
 - Limits talk time to 90 sec. This perhaps allows only a few items they can state.
 - When others talk, make a short, encouraging comment.
 - Any roadmaps, technique sharing, knowledge sharing, discussions, etc are not part of the accountability meeting time, even if it is later done with the same group.
-## Consulting with a counselor and participating in an accountability group
-... Shwetha to fill in something here.
-The accountability group keeps you accountable to pay attention to the right things all the time.
-The counselor helps you find focus techniques that work for you and keeps you accountable to use those techniques.
-...
-## Parking lot - Educosys
+
+# Educosys - becoming a true educational eco system !
 
 Offer a complete solution.
 - Material (live/hybrid classes, with recordings)
-- Default roadmap for a course 
-  - A task list that is aligned with course outline. 
+- Help in digesting the material (forums, q&a)
+- Personalized study roadmap creation consultation
+- Accountability groups (signups, discord groups creation with like minded/similarly paced individuals with similar times of availability for sync, templates)
+- Affiliated (additional cost) counselors for personalized help with attention/focus issues. These counselors will evolve knowledge of issues common to IT students and professionals. Shwetha Therapy.shwetha@gmail.com would be a good fit for a pilot program.
+- Default task roadmap for a course (for use in accountability planning)
+  - A task list that is aligned with course outline. With a mention of lecture and timestamp or other link.
   - A 2 hour class may generate 3-4 tasks (main topics of the class)
   - Homework for the class may generate 3-4 tasks
-  - There maybe some optional tasks, which are stretch tasks.
-- Personalized study roadmap creation consultation
-- Accountability groups
-- Affiliated counselor for personalized help with attention/focus issues
+  - There maybe some optional tasks, which are stretch tasks. Extra homework, research, project work, etc. It has to be clear which tasks are foundational, which are for reinforcing and which are for stretch.
 
-Actions:
-- Have someone edit the class videos to make them shorter. Aim to make them an hour or less.
+
+## Other ideas for Educosys:
+- Have someone edit the existing class videos shorten them. Aim to make them an hour from a 2 hour class.
   - Cut out the repeats of concepts and unnecessary words/phrases. 
   - Fast forward/cut out the time when drawing on white board.
   - Provide timestamps of video sections so that it is easy for people to review/refer later.
+- In future, when drawing things live on whiteboard, be silent when drawing/writing long things. The silent part can then be snipped for the recorded video. The drawing/long text just appears and then your spoken explaination of that segment. There are tools to remove silence from videos automatically too.
+- If you are making videos for hybrid format where you dont have a live audience, you can just point at the screen where something will appear later and then later on, edit the video to add the object. 
+    - example : https://www.youtube.com/watch?v=Lg-meK5IU8Q (he does some in the first minute)
