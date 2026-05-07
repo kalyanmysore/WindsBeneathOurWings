@@ -56,8 +56,9 @@ Every such day has some time that's not at our discretion.
 - Family time, exercise, meditation, hobbies (in areas unrelated to growth focus areas). These are great and perhaps even necessary, but not considered discretionary time for this article.
 - If we have a daily commute, we might have scammed ourselves into believing that no growth content is viable during commuting.
 - There maybe a social event or ticketed event that our spouse and we have committed to attending.
+
 #### Discretionary time
-And then, there is discretionary time. It deserves its own heading !
+And then, there is discretionary time. It deserves a larger heading !
 
 ## Discretionary time. The mystery.
 And then, there are the few hours left in the day, **that are actually at our discretion**. Growth could happen here. 
@@ -72,9 +73,7 @@ Shwetha is a counselling psychologist in India who has developed some mastery ov
 She helps people discover and solve their specific issues. The issues may be among those in the article above or may fall on other ADHD related behaviors.
 
 ## What should we do ?
-In theory, we should just decide what we need to do, schedule time for it and do it ! 
-
-In theory, that should be it. But as Shwetha's article suggests, there are many roadblocks.
+In theory, we should just decide what we need to do, schedule time for it and do it ! But as Shwetha's article suggests, there are many roadblocks.
 
 Maybe one can indeed get better at being more effective at timeboxing distraction. It may give us some time.
 
@@ -152,5 +151,5 @@ Offer a complete solution.
   - Provide timestamps of video sections so that it is easy for people to review/refer later.
 - In future, when drawing things live on whiteboard, be silent when drawing/writing long things. The silent part can then be snipped for the recorded video. The drawing/long text just appears and then your spoken explanation happens. There are tools to remove silence from videos automatically that can be used.
 - If you are making videos for hybrid format where you don't have a live audience, you can just point at the screen where something will appear later and then later on, edit the video to add the object. 
-    - example : https://www.youtube.com/watch?v=Lg-meK5IU8Q (he does some in the first minute)
+    - Example : https://www.youtube.com/watch?v=Lg-meK5IU8Q (he does some in the first minute)
 - Of course, you can use a pre-made ppt, but that is a different feel. 
