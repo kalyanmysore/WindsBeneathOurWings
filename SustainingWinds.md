@@ -151,5 +151,5 @@ Offer a complete solution.
   - Provide timestamps of video sections so that it is easy for people to review/refer later.
 - In future, when drawing things live on whiteboard, be silent when drawing/writing long things. The silent part can then be snipped for the recorded video. The drawing/long text just appears and then your spoken explanation happens. There are tools to remove silence from videos automatically that can be used.
 - If you are making videos for hybrid format where you don't have a live audience, you can just point at the screen where something will appear later and then later on, edit the video to add the object. 
-    - Example : https://www.youtube.com/watch?v=Lg-meK5IU8Q (he does some in the first minute)
+    - [Example video](https://www.youtube.com/watch?v=Lg-meK5IU8Q) (he does some in the first minute)
 - Of course, you can use a pre-made ppt, but that is a different feel. 
