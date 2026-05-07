@@ -126,10 +126,19 @@ Having an accountability group can help in crucial ways:
 ...
 
 ## An ideal growth focus accountability group
-
-### Group characteristics
+- Provides humans that one is accountable to.
+- Is small enough that one does not have to donate too much time listening to accounts of others. Three may be enough.
+- Time boxes each participant
+- Is limited to progress reports
+- Is supposed to be non judgemental and encouraging
+- Provides templates for the participants to have notes they bring to the meetings for their own use
+- A short duration voice call is the default.
+    - Can provide text based channels if one is occasionally not able to attend. Occasionally only.
 ### Expected actions from each group member
-
+- Each participant comes ready with notes and gives an account of accomplishment/failure and next actions.
+- Each participant is limited to 90 sec. This perhaps allows only a few items they can state.
+- Calls in early so that the meeting can start on time. Apologizes if late and will get some time chopped off.
+- Does any roadmaps, technique sharing, knowledge sharing, discussions, etc outside of the accountability meeting time, even if it is with the same group.
 ## Simultaneously consulting with a counselor while participating in an accountability group
 ... Shwetha to fill in something here.
 The group keeps you accountable to pay attention to the right things.
