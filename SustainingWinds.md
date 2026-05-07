@@ -92,7 +92,7 @@ A counsellor:
 - Can provide many tips for starting and staying on growth work.
 - Can periodically meet with you to tune/change techniques
 
-Shwetha <Therapy.shwetha@gmail.com> is a counselor who can help. She has experience with many clients with productivity issues.
+Shwetha <Therapy.shwetha@gmail.com> can help. She has experience with many clients with productivity issues.
 
 ## How about an accountability group ?
 Having an accountability group can help in crucial ways:
