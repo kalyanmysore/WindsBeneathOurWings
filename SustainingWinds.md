@@ -14,6 +14,8 @@ Sources:
 * Researching the topic online
 * My own experience
 
+tldr ? I recommend that you atleast skim the headings below and go to the section on accountability below.
+
 ## Days in the lives of many among us 
 
 ### A day that lights a fire under our feet
@@ -155,8 +157,19 @@ The counselor helps you find focus techniques that work for you and keeps you ac
 ...
 ## Parking lot - Educosys
 
-* Have someone edit the class videos to make them shorter. Aim to make them an hour or less.
+Offer a complete solution.
+- Material (live/hybrid classes, with recordings)
+- Default roadmap for a course 
+  - A task list that is aligned with course outline. 
+  - A 2 hour class may generate 3-4 tasks (main topics of the class)
+  - Homework for the class may generate 3-4 tasks
+  - There maybe some optional tasks, which are stretch tasks.
+- Personalized study roadmap creation consultation
+- Accountability groups
+- Affiliated counselor for personalized help with attention/focus issues
 
-- Cut out the repeats of concepts and unnecessary words/phrases. 
-
-- Fast forward the time when drawing on white board.
+Actions:
+- Have someone edit the class videos to make them shorter. Aim to make them an hour or less.
+  - Cut out the repeats of concepts and unnecessary words/phrases. 
+  - Fast forward/cut out the time when drawing on white board.
+  - Provide timestamps of video sections so that it is easy for people to review/refer later.
