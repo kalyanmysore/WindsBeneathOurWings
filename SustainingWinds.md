@@ -56,7 +56,7 @@ Every such day has some time that's not at our discretion.
 - Family time, exercise, meditation, hobbies (in areas unrelated to growth focus areas). These are great and perhaps even necessary, but not considered discretionary time for this article.
 - If we have a daily commute, we might have scammed ourselves into believing that no growth content is viable during commuting.
 - There maybe a social event or ticketed event that our spouse and we have committed to attending.
-
+#### Discretionary time
 And then, there is discretionary time. It deserves its own heading !
 
 ## Discretionary time. The mystery.
@@ -134,7 +134,9 @@ Offer a complete solution.
     - Help for digesting the material (forums, q&a)
     - Provide a forum for people to share their successes and present on their explorations.
 - An article or two on DIY improving focus.
-- Accountability groups (signups, discord groups creation with like minded/similarly paced individuals with similar times of availability for sync, templates)
+- Facilitate accountability groups (signups, discord groups creation with like minded/similarly paced individuals with similar times of availability for sync, templates)
+   - This could be free but recommend a donation to an education non profit.
+   - These would be across multiple courses. Group participants dont have to be from same course.
 - Link to counselors for personalized help with attention/focus improvement. These counselors have knowledge of issues common to IT students and professionals. Shwetha <Therapy.shwetha@gmail.com> would be a good fit for a pilot program.
 - Default task roadmap for a course (for use in task planning for accountability)
   - A task list that is aligned with course outline. With a mention of lecture and timestamp or other link.
