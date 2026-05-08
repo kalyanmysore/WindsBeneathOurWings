@@ -15,7 +15,7 @@ Sources:
 * Communications with Shwetha, a counselling psychologist.
 * My own experience
 
-tldr ? I recommend that you at least skim the headings below and go to the section on discretionary time below.
+TLDR ? I recommend that you at least skim the headings below and go to the section on discretionary time below.
 
 ## Days in the lives of many among us 
 
@@ -126,6 +126,8 @@ Using both a counselor and an accountability group can create synergy.
 
 ## Summary diagram
 ```mermaid
+%%{init: { 'theme': 'base', 'themeVariables': { 'background': '#ff0000' } } }%%
+
 mindmap
   root((Growth))
     Mitigate mental blocks
