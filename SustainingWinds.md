@@ -1,5 +1,5 @@
 # Sustaining the winds of growth. 
-*The Art of Starting and finishing learning/growth projects.*
+*The Art of Starting and Finishing learning/growth projects.*
 ## How many of us finish?
 What percentage of purchased/downloaded online courses have you completed? Non-fiction paper books? Digital books? Bookmarks made while in scroll mode, for later "study mode" time?
 
@@ -124,6 +124,7 @@ Using both a counselor and an accountability group can create synergy.
 - When others talk, make a short, encouraging comment.
 - Any roadmaps, technique sharing, knowledge sharing, discussions, etc are not part of the accountability meeting time, even if it is later done with the same group.
 
+## Summary diagram
 ```mermaid
 mindmap
   root((Growth))
@@ -133,21 +134,19 @@ mindmap
             Work around
             Use techniques
         Can use counselor help
-    Create optimal conditions
-        Analyze your life
-        Show up with energy
-        Can use counselor help
-    Find time
+
+    Optimize growth conditions
         Plan your time and energy
         Determine what to postpone
         Can use counselor help
-    Taskify roadmap
+    Chunk roadmap into tasks
         Roadmap needs to be split to 15-30 min blocks.
         DIY ?
         Use course outline
         Can use course instructor help
     Execution system
         Execute roadmap
+    Stay on track 
         Use accountability system
         Course provider can add accountability feature
 
