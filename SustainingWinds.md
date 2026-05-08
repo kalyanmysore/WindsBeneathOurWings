@@ -124,6 +124,37 @@ Using both a counselor and an accountability group can create synergy.
 - When others talk, make a short, encouraging comment.
 - Any roadmaps, technique sharing, knowledge sharing, discussions, etc are not part of the accountability meeting time, even if it is later done with the same group.
 
+```mermaid
+mindmap
+  root((Growth))
+    Mitigate mental blocks
+        Discover
+        Mitigate
+            Work around
+            Use techniques
+        Can use counselor help
+    Create optimal conditions
+        Analyze your life
+        Show up with energy
+        Can use counselor help
+    Find time
+        Plan your time and energy
+        Determine what to postpone
+        Can use counselor help
+    Taskify roadmap
+        Roadmap needs to be split to 15-30 min blocks.
+        DIY ?
+        Use course outline
+        Can use course instructor help
+    Execution system
+        Execute roadmap
+        Use accountability system
+        Course provider can add accountability feature
+
+        
+   ```
+
+
 # Educosys - becoming a true educational eco system !
 
 Offer a complete solution.
